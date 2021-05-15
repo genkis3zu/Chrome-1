@@ -1,0 +1,6 @@
+{
+    "manifest_version": 2,
+    "name": "拡張機能サンプル",
+    "version": "0.0.1",
+    "description": "最小構成" 
+}
